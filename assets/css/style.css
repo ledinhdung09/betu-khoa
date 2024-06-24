@@ -207,7 +207,7 @@ body .main-home .banner {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-image: url("/assets/img/banner/Thiết kế chưa có tên.png");
+  background-image: url("betu-khoa/assets/img/banner/Thiết kế chưa có tên.png");
 }
 body .main-home .banner .banner-title {
   margin-top: 6rem;
@@ -283,7 +283,7 @@ body .main-home .banner .banner-title .banner-title-left .banner-btn li .btn-lef
   opacity: 0.8;
 }
 body .main-home .banner .banner-title .banner-title-left .banner-btn li .btn-right {
-  background-color: #F5F5F5;
+  background-color: #f5f5f5;
   color: #000;
   font-size: 16px;
   font-weight: 500;
@@ -306,11 +306,12 @@ body .main-home .banner .banner-title-right {
 }
 body .main-home .banner .banner-title-right img {
   height: 100%;
-  object-fit: contain;
+  -o-object-fit: contain;
+     object-fit: contain;
 }
 body .main-home .industry-info {
   padding: 3rem;
-  background-color: #F5F5F5;
+  background-color: #f5f5f5;
   font-family: "Open Sans", sans-serif;
 }
 @media screen and (max-width: 576px) {
@@ -396,7 +397,7 @@ body .main-home .features .desc .card {
   border-radius: 8px;
   margin-top: 1rem;
   box-shadow: 0px 8px 40px 0 rgba(0, 0, 0, 0.15);
-  background-color: #F5F5F5;
+  background-color: #f5f5f5;
 }
 body .main-home .features .desc .card .subTitle h3 {
   font-size: 22px;
@@ -440,7 +441,8 @@ body .main-home .learning .learning-left .learning-img {
 body .main-home .learning .learning-left .learning-img img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
   border-radius: 8px;
 }
 body .main-home .learning .learning-right {
@@ -457,7 +459,7 @@ body .main-home .learning .learning-right .content h3 {
   color: #1a3c6a;
 }
 body .main-home .chance {
-  background-color: #F5F5F5;
+  background-color: #f5f5f5;
   padding: 2rem 0;
   font-family: "Open Sans", sans-serif;
 }
@@ -541,7 +543,8 @@ body .main-home .lecturer .container .content .card-lecturer .avatar {
 body .main-home .lecturer .container .content .card-lecturer .avatar img {
   max-width: 100%;
   height: 100%;
-  object-fit: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
   border-radius: 8px 8px 0 0;
 }
 body .main-home .lecturer .container .content .card-lecturer .info strong {
@@ -573,7 +576,7 @@ body .main-home .lecturer .container .content .card-lecturer:hover {
 }
 body .main-home .article {
   padding: 2rem 0;
-  background-color: #F5F5F5;
+  background-color: #f5f5f5;
 }
 body .main-home .article .title {
   margin-top: 1rem;
@@ -600,7 +603,8 @@ body .main-home .article .news .news-left a {
 body .main-home .article .news .news-left a .news-image img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
   border-radius: 8px;
 }
 body .main-home .article .news .news-left a .desc {
@@ -642,7 +646,8 @@ body .main-home .article .news .news-right ul .item a {
 body .main-home .article .news .news-right ul .item a .item-left .item-image img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
   border-radius: 8px;
 }
 body .main-home .article .news .news-right ul .item a .item-right {
@@ -703,7 +708,8 @@ body .main-home .article .event .event-item .item .event-card .event-image {
 body .main-home .article .event .event-item .item .event-card .event-image img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
   border-radius: 8px 8px 0 0;
 }
 body .main-home .article .event .event-item .item .event-card .event-content {
@@ -1008,7 +1014,8 @@ body .main-article .list-event .event .event-item .item .event-card .event-image
 body .main-article .list-event .event .event-item .item .event-card .event-image img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
   border-radius: 8px 8px 0 0;
 }
 body .main-article .list-event .event .event-item .item .event-card .event-content {
@@ -1406,7 +1413,8 @@ body .main-research .competition .container-competition .list-competition .item-
 body .main-research .competition .container-competition .list-competition .item-competition .item-left .item-image img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
   border-radius: 8px 8px;
 }
 body .main-research .competition .container-competition .list-competition .item-competition .item-right .item-content {
@@ -1462,7 +1470,8 @@ body .main-achievement .competition .container-competition .list-competition .it
 body .main-achievement .competition .container-competition .list-competition .item-competition .item-left .item-image img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
   border-radius: 8px 8px;
 }
 body .main-achievement .competition .container-competition .list-competition .item-competition .item-right .item-content {
